@@ -1,0 +1,29 @@
+id: PF23C1F11
+initial_creation_type: input
+source_metadata:
+  title: The Lamdre teaching record by Phags pa blo gros rgyal mtshan (1235–1280)
+  author: phags pa blo gros rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-06-19); no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the Paltsek
+    Research Institute. (src)
+  - Text input:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4285
+  bases:
+    063f:
+      title: The Lamdre teaching record by Phags pa blo gros rgyal mtshan (1235–1280)
+      order: 1
+      base_file: 063f.txt
+created_at: '2022-04-15T18:46:48.558435'
+last_modified_at: '2022-04-15T18:46:48.558441'
+quality: null
